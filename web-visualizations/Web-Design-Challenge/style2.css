@@ -1,0 +1,52 @@
+
+body {
+  background-color: rgb(227, 226, 226);
+}
+   
+   
+   
+   
+   @media (max-width: auto;) {
+    .navbar-nav{
+      width: 989px%;
+      background-color:rgb(81, 139, 125);
+    
+    }
+    }
+
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: 100;
+  color: seagreen;
+  text-align: left;
+  background-color: white;
+}
+
+
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: 100;
+  color: seagreen;
+  text-align: left;
+  background-color: white;
+}
+.navbar-nav {
+    text-align: right;
+    }
+
+
+.container{
+width: auto%;
+height: auto;
+
+
+}
+.container2 {
+ 
+  width: 200px;
+  height: 200px;
+}
